@@ -1,0 +1,20 @@
+.comment-container {
+    margin-bottom: 24px;
+    display: flex;
+}
+
+.comment-container .username {
+    margin-right: 5px;
+}
+
+.comment-details {
+    margin-top: 8px;
+    font-size: 13px;
+    color: rgb(100, 100, 100);
+    font-weight: 600;
+}
+
+.comment-details span:first-child {
+    margin-right: 10px;
+
+}
