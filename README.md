@@ -1,2 +1,1 @@
-# project-react
-# Instagram-frontend
+# Instagram
